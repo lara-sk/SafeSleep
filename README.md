@@ -36,7 +36,7 @@ I undertook this project because it addresses a personal need: my mother, who ha
 
 
 ## Screenshots
-![Picture of Wokwi Configuration](./img/screenshot.png)
+![Picture of Wokwi Configuration](![Wokwi_Physical_Configuration](https://github.com/user-attachments/assets/bc85a9af-b4e5-4ef7-9810-f4234de16815)
 ![Picture of Physical Configuration](./img/screenshot.png)
 ![Picture of Red LED active on the Traffic Light Module](./img/screenshot.png)
 ![Picture of Green LED active on the Traffic Light Module](./img/screenshot.png)
