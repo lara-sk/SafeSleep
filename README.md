@@ -38,8 +38,8 @@ I undertook this project because it addresses a personal need: my mother, who ha
 ## Screenshots
 ![Picture of Wokwi Configuration](https://github.com/user-attachments/assets/bc85a9af-b4e5-4ef7-9810-f4234de16815)
 ![Picture of Physical Configuration](https://github.com/user-attachments/assets/68d025e6-f6b0-427d-beaa-a9b055ee3960)
-![Picture of Red LED active on the Traffic Light Module](![RedLEDActive](https://github.com/user-attachments/assets/c89317c8-deb3-4ace-985b-78b57318ce8a)
-![Picture of Green LED active on the Traffic Light Module](https://github.com/user-attachments/assets/8d01f5e5-32f9-4235-b15b-44411610aa0b))
+![Picture of Red LED active on the Traffic Light Module](https://github.com/user-attachments/assets/c89317c8-deb3-4ace-985b-78b57318ce8a)
+![Picture of Green LED active on the Traffic Light Module](https://github.com/user-attachments/assets/8d01f5e5-32f9-4235-b15b-44411610aa0b)
 
 
 ## Setup
